@@ -1,6 +1,6 @@
 # dwan0156_9103_tut1
 
-# Week 9 QUIZ
+# QUIZ 8
 ## Part 1 : Imaging & Coding Inspiration
 **Artist** : Stefan Heyne
 
